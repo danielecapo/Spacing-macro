@@ -1,0 +1,26 @@
+nStem 100
+nCounter 100
+oStem 100
+oCounter 100
+typeStyle 2 # 1 for sans, 2 for serif
+aConstruction 1 # 1 for roman construction, 2 for italic construction
+gConstruction 1 # 1 for roman construction, 2 for italic construction
+globalAdjust 100
+curvedMarginAdjust 100
+bLeft 100
+hklLeft 100 # h, k, l
+jqRight 100 # j, q
+uLeft 100
+aLeft 100
+cRight 100
+eRight 100
+fRight 100
+gLeft 100
+gRight 100
+kRight 100
+rRight 100
+sBoth 100
+tRight 100
+vBoth 100 # v, w, y
+xBoth 100
+zBoth 100
